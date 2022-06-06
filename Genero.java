@@ -1,0 +1,3 @@
+public enum Genero {
+  SUSPENSE, POLICIAL, COMEDIA, ROMANCE, TERROR
+}
